@@ -1,0 +1,7 @@
+{
+  "name": "artdic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
